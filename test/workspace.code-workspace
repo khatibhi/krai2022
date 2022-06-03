@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../aing_ws"
+		},
+		{
+			"path": "../../../tb3_ws"
+		},
+		{
+			"path": "../../../sena_ws"
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"/home/alex/aing_ws/devel/lib/python3/dist-packages",
+			"/opt/ros/noetic/lib/python3/dist-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/alex/aing_ws/devel/lib/python3/dist-packages",
+			"/opt/ros/noetic/lib/python3/dist-packages"
+		]
+	}
+}
